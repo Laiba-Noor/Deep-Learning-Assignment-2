@@ -177,8 +177,6 @@ print("All fixes applied!")
 | Final Loss | Converged | 175,564 |
 | Loss Reduction | ~96%+ | 96.9% |
 
-![Helmholtz Loss](results/helmholtz_loss_curve.png)
-![Helmholtz Wavefield](results/helmholtz_wavefield.png)
 
 ### Wave Equation
 
@@ -189,8 +187,6 @@ print("All fixes applied!")
 | Final Loss | Converged | 16,236 |
 | Loss Reduction | — | 99.98% |
 
-![Wave Loss](results/wave_loss_curve.png)
-![Wave Solution](results/wave_wavefield.png)
 
 ---
 
